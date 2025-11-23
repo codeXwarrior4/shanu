@@ -1,0 +1,76 @@
+name: aayu_track
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # PDF + Sharing
+  pdf: ^3.10.7
+  printing: ^5.13.1
+  share_plus: ^7.2.1
+  open_filex: ^4.5.0
+
+  # Animations
+  animations: ^2.0.11
+  lottie: ^2.7.0
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  # Local preferences
+  shared_preferences: ^2.2.2
+
+  # Notifications
+  flutter_local_notifications: ^17.2.4
+
+  # Text to speech
+  flutter_tts: ^3.8.5
+
+  # File paths
+  path_provider: ^2.1.5
+
+  # Hive (local storage)
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Markdown & Speech
+  flutter_markdown: ^0.6.10
+  speech_to_text: ^6.6.0
+
+  # Google Gemini AI
+  google_generative_ai: ^0.4.7
+
+  # Bluetooth Low Energy (Smartwatch integration)
+  flutter_reactive_ble: ^5.4.0
+   
+   # vibration
+  vibration: ^1.7.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
+
+  # Use hive_generator_plus for Dart 3.x compatibility
+  hive_generator_plus: ^5.0.0
+  build_runner: ^2.4.6
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/animations/health.json
+    - assets/l10n/

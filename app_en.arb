@@ -1,0 +1,89 @@
+{
+    "@@locale": "en",
+
+    "appName": "AayuTrack",
+    "trustedUsers": "Trusted by thousands of users",
+    "quote": "Your health is your real wealth.",
+    "getStarted": "Get Started",
+    "login": "Login",
+    "register": "Register",
+
+    "trackProgress": "Track Your Progress",
+    "trackProgressDesc": "Monitor daily tasks and visualize your wellness journey.",
+    "aiRecommendations": "AI Recommendations",
+    "aiRecommendationsDesc": "Personalized suggestions from your AI wellness guide.",
+    "gamifiedExperience": "Gamified Experience",
+    "gamifiedExperienceDesc": "Achieve health goals through fun challenges and rewards.",
+
+    "hello": "Hello,",
+    "tagline": "Stay consistent • Private • Offline",
+
+    "stepsLabel": "Steps",
+    "heartRateLabel": "Heart Rate",
+    "hydrationLabel": "Hydration",
+
+    "medicationTitle": "Medication",
+    "manageLabel": "Manage",
+    "noMedicineLogged": "No medicines logged yet.",
+    "atLabel": "At",
+
+    "medicationStreakTitle": "Medication Streak",
+    "stepsStreakTitle": "Steps Streak",
+    "hydrationStreakTitle": "Hydration Streak",
+    "viewLabel": "View",
+
+    "addStepsButton": "Add 1000 steps",
+    "addHydrationButton": "Add 250 ml",
+
+    "remindNow": "Remind Now",
+    "exportReport": "Export Report",
+
+    "healthTips": "💧 Drink a glass of water every morning.\n🏃‍♂️ Maintain a 30-minute daily walk routine.\n💊 Take medicines on schedule.",
+    "ai_health_checkup": "AI Health Checkup",
+    "select_language": "Select Language:",
+    "describe_symptoms": "Describe your symptoms",
+    "speak": "Speak",
+    "stop": "Stop",
+    "analyze": "Analyze",
+    "ai_diagnosis": "AI Diagnosis:",
+    "analyzing": "Analyzing... please wait",
+
+    "reminder_title": "Reminder",
+    "reminder_add": "Add Reminder",
+    "reminder_edit": "Edit Reminder",
+    "reminder_delete": "Delete Reminder",
+    "reminder_upcoming": "Upcoming Reminders",
+    "reminder_no_upcoming": "No upcoming reminders",
+    "reminder_time": "Time",
+    "reminder_date": "Date",
+    "reminder_repeat": "Repeat",
+    "reminder_repeat_daily": "Daily",
+    "reminder_repeat_weekly": "Weekly",
+    "reminder_repeat_monthly": "Monthly",
+    "reminder_save": "Save Reminder",
+    "reminder_cancel": "Cancel",
+
+    "english": "English",
+    "hindi": "Hindi",
+    "kannada": "Kannada",
+    "marathi": "Marathi",
+
+    "breathingExerciseSubtitle": "Tap to relax & start guided breathing",
+
+    "breathingStart": "Start",
+    "breathingStop": "Stop",
+    "breathingTapToStart": "Tap to start",
+    "breathingInhale": "Inhale",
+    "breathingExhale": "Exhale",
+    "breathingSeconds": "{seconds} sec",
+    "@breathingSeconds": {
+        "placeholders": {
+            "seconds": {}
+        }
+    },
+
+
+    "breathingCompletedTitle": "Great job!",
+    "breathingCompletedSubtitle": "You completed the breathing session.",
+    "breathingRestart": "Restart"
+}
